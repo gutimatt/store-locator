@@ -1,0 +1,5344 @@
+[{
+        "recommendation": {},
+        "storeNumber": "6881-283350",
+        "id": "1022895",
+        "name": "Smoky Hill & Buckley",
+        "phoneNumber": "3036933635",
+        "coordinates": {
+            "latitude": 39.625209,
+            "longitude": -104.790089
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "17000 E. Smoky Hill Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Centennial",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800152484"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["17000 E. Smoky Hill Rd", "Centennial, CO 80015"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "smoky-hill-buckley-17000-e-smoky-hill-rd-centennial-co-800152484-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "24220-230640",
+        "id": "1009810",
+        "name": "King Soopers - Centennial #16",
+        "phoneNumber": "303-400-3038",
+        "coordinates": {
+            "latitude": 39.614994,
+            "longitude": -104.758485
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "19711 E Smokey Hill Rd.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Centennial",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80015"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["19711 E Smokey Hill Rd.", "Centennial, CO 80015"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }],
+        "slug": "king-soopers-centennial-16-19711-e-smokey-hill-rd-centennial-co-80015-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "5283-284",
+        "id": "12117",
+        "name": "Smoky & Himalaya",
+        "phoneNumber": "(303) 699-5521",
+        "coordinates": {
+            "latitude": 39.614994,
+            "longitude": -104.75729
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "19751-A Smoky Hill Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800155191"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["19751-A Smoky Hill Road", "Aurora, CO 80015"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "smoky-himalaya-19751-a-smoky-hill-road-aurora-co-800155191-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "9600-97687",
+        "id": "8040",
+        "name": "Hampden Ave & Tower- Aurora",
+        "phoneNumber": "3036801137",
+        "coordinates": {
+            "latitude": 39.652239,
+            "longitude": -104.773079
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3551 South Tower Rd",
+            "streetAddressLine2": "Unit A",
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800135703"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["3551 South Tower Rd", "Unit A", "Aurora, CO 80013"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "hampden-ave-tower-aurora-3551-south-tower-rd-aurora-co-800135703-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "74263-51682",
+        "id": "14771",
+        "name": "Safeway-Aurora #1928",
+        "phoneNumber": "720-876-2244",
+        "coordinates": {
+            "latitude": 39.652863,
+            "longitude": -104.776171
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "18730 E Hampden Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800133534"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["18730 E Hampden Ave", "Aurora, CO 80013"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-aurora-1928-18730-e-hampden-ave-aurora-co-800133534-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "19362-200884",
+        "id": "114082",
+        "name": "King Soopers - #128 Aurora",
+        "phoneNumber": "303-627-3300",
+        "coordinates": {
+            "latitude": 39.655037,
+            "longitude": -104.776166
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "18211 E. Hampden Avenue",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80013"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["18211 E. Hampden Avenue", "Aurora, CO 80013"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-128-aurora-18211-e-hampden-avenue-aurora-co-80013-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "73961-82268",
+        "id": "7311",
+        "name": "King Soopers-Aurora #84",
+        "phoneNumber": "303-627-6060",
+        "coordinates": {
+            "latitude": 39.600226,
+            "longitude": -104.802907
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6412 S Parker Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800163011"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6412 S Parker Rd", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-aurora-84-6412-s-parker-rd-aurora-co-800163011-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "21242-210247",
+        "id": "1006786",
+        "name": "S. Parker Rd & E. Quincy Ave",
+        "phoneNumber": "3036806304",
+        "coordinates": {
+            "latitude": 39.637869,
+            "longitude": -104.828549
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "13702 E Quincy Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800151129"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["13702 E Quincy Ave", "Aurora, CO 80015"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "s-parker-rd-e-quincy-ave-13702-e-quincy-ave-aurora-co-800151129-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "5573-164244",
+        "id": "1010099",
+        "name": "Arapahoe & Parker",
+        "phoneNumber": "3036277441",
+        "coordinates": {
+            "latitude": 39.595318,
+            "longitude": -104.804334
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "15795 East Arapahoe Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Centennial",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800161782"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["15795 East Arapahoe Road", "Centennial, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "arapahoe-parker-15795-east-arapahoe-road-centennial-co-800161782-u"
+    }, {
+        "recommendation": {},
+        "storeNumber": "52481-270095",
+        "id": "1023019",
+        "name": "Quincy & Picadilly",
+        "phoneNumber": "7206013354",
+        "coordinates": {
+            "latitude": 39.638076,
+            "longitude": -104.732155
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "21900 E Quincy Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800152884"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["21900 E Quincy Ave", "Aurora, CO 80015"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "quincy-picadilly-21900-e-quincy-ave-aurora-co-800152884-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "76981-136642",
+        "id": "10683",
+        "name": "Target Aurora South T-2458",
+        "phoneNumber": "303-594-5830",
+        "coordinates": {
+            "latitude": 39.591379,
+            "longitude": -104.805072
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "15700 E Briarwood Cir",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800161558"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["15700 E Briarwood Cir", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "target-aurora-south-t-2458-15700-e-briarwood-cir-aurora-co-800161558-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "6833-83644",
+        "id": "9327",
+        "name": "Iliff & Buckley",
+        "phoneNumber": "3033067620",
+        "coordinates": {
+            "latitude": 39.672774,
+            "longitude": -104.788435
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "17200 E Iliff Ave, Unit A-1",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800135804"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["17200 E Iliff Ave, Unit A-1", "Aurora, CO 80013"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "iliff-buckley-17200-e-iliff-ave-unit-a-1-aurora-co-800135804-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "73605-87503",
+        "id": "12934",
+        "name": "Safeway - Aurora #899",
+        "phoneNumber": "303-400-4870",
+        "coordinates": {
+            "latitude": 39.604604,
+            "longitude": -104.715171
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6100 S Gun Club Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800165262"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6100 S Gun Club Rd", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-aurora-899-6100-s-gun-club-rd-aurora-co-800165262-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "59453-266985",
+        "id": "1025922",
+        "name": "King Soopers - Aurora #139",
+        "phoneNumber": null,
+        "coordinates": {
+            "latitude": 39.659402,
+            "longitude": -104.84373
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "225 and Parker Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80014"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["225 and Parker Road", "Aurora, CO 80014"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }],
+        "slug": "king-soopers-aurora-139-225-and-parker-road-aurora-co-80014-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "10114-93216",
+        "id": "8071",
+        "name": "Parker & Peoria-Aurora",
+        "phoneNumber": "303-306-2328",
+        "coordinates": {
+            "latitude": 39.659983,
+            "longitude": -104.850223
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "3128 S. Parker Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800143110"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["3128 S. Parker Road", "Aurora, CO 80014"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "parker-peoria-aurora-3128-s-parker-road-aurora-co-800143110-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "6566-237008",
+        "id": "1020039",
+        "name": "Arapahoe and Nome",
+        "phoneNumber": "3037688272",
+        "coordinates": {
+            "latitude": 39.59539,
+            "longitude": -104.85338
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "11703 E. Arapahoe Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Centennial",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801124568"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["11703 E. Arapahoe Road", "Centennial, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "arapahoe-and-nome-11703-e-arapahoe-road-centennial-co-801124568-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "10632-98426",
+        "id": "10311",
+        "name": "E-470 & Gartrell- Aurora",
+        "phoneNumber": "303-690-1104",
+        "coordinates": {
+            "latitude": 39.579972,
+            "longitude": -104.724438
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7500 S. Gartrell Rd.",
+            "streetAddressLine2": "Suite 101",
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800164450"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["7500 S. Gartrell Rd.", "Suite 101", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "e-470-gartrell-aurora-7500-s-gartrell-rd-aurora-co-800164450-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "10856-101379",
+        "id": "10038",
+        "name": "Mississippi and Buckley",
+        "phoneNumber": "303-337-2940",
+        "coordinates": {
+            "latitude": 39.694216,
+            "longitude": -104.790464
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1240 S Buckely Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800174150"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": true,
+        "openStatusText": "Closes in 14 mins",
+        "addressLines": ["1240 S Buckely Rd", "Aurora, CO 80017"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "mississippi-and-buckley-1240-s-buckely-rd-aurora-co-800174150-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "76305-96656",
+        "id": "14666",
+        "name": "Target Aurora ST-1976",
+        "phoneNumber": "303-209-2827",
+        "coordinates": {
+            "latitude": 39.581216,
+            "longitude": -104.72198
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7400 S Gartrell Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800164236"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["7400 S Gartrell Rd", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "7:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "target-aurora-st-1976-7400-s-gartrell-rd-aurora-co-800164236-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "28271-233545",
+        "id": "1013536",
+        "name": "King Soopers - Parker #126",
+        "phoneNumber": "303-334-9540",
+        "coordinates": {
+            "latitude": 39.559741,
+            "longitude": -104.782769
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "17761 Cottonwood Dr",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Parker",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80134"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["17761 Cottonwood Dr", "Parker, CO 80134"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }],
+        "slug": "king-soopers-parker-126-17761-cottonwood-dr-parker-co-80134-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "11034-104012",
+        "id": "6334",
+        "name": "Hampden & Dayton - Denver",
+        "phoneNumber": "303 369-5081",
+        "coordinates": {
+            "latitude": 39.653424,
+            "longitude": -104.872926
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9925 East Hampden Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denver",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "802314903"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9925 East Hampden Ave", "Denver, CO 80231"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "hampden-dayton-denver-9925-east-hampden-ave-denver-co-802314903-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "24213-180506",
+        "id": "1009797",
+        "name": "Mississippi & Abilene, Aurora",
+        "phoneNumber": "7208996364",
+        "coordinates": {
+            "latitude": 39.697228,
+            "longitude": -104.826472
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "13881 E Mississippi Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800123691"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": true,
+        "openStatusText": "Closes in 14 mins",
+        "addressLines": ["13881 E Mississippi Ave", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "CS",
+            "name": "tbd - Coffee Scale"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "mississippi-abilene-aurora-13881-e-mississippi-ave-aurora-co-800123691-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "252-145",
+        "id": "15212",
+        "name": "Belleview & Yosemite",
+        "phoneNumber": "(303) 796-7003",
+        "coordinates": {
+            "latitude": 39.625723,
+            "longitude": -104.883456
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4920 S Yosemite",
+            "streetAddressLine2": "Ste C7",
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801111351"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["4920 S Yosemite", "Ste C7", "Greenwood Village, CO 80111"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "CL",
+            "name": "Starbucks Reserve-Clover Brewed"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "belleview-yosemite-4920-s-yosemite-greenwood-village-co-801111351-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "75001-29516",
+        "id": "9271",
+        "name": "King Soopers-Greenwood Village #100",
+        "phoneNumber": "303-773-3342",
+        "coordinates": {
+            "latitude": 39.626399,
+            "longitude": -104.88448
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "4910 S. Yosemite",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801111383"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["4910 S. Yosemite", "Greenwood Village, CO 80111"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-greenwood-village-100-4910-s-yosemite-greenwood-village-co-801111383-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "14072-107931",
+        "id": "7588",
+        "name": "Parker & Iliff, Aurora",
+        "phoneNumber": "303 695-5239",
+        "coordinates": {
+            "latitude": 39.674371,
+            "longitude": -104.869637
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "2300 S. Parker Rd",
+            "streetAddressLine2": "A",
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "802315923"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["2300 S. Parker Rd", "A", "Aurora, CO 80231"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "parker-iliff-aurora-2300-s-parker-rd-aurora-co-802315923-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "48008-260126",
+        "id": "1023705",
+        "name": "Parker - Jordan and E470",
+        "phoneNumber": "7208425165",
+        "coordinates": {
+            "latitude": 39.54698,
+            "longitude": -104.792839
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9328 S. Jordan Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Parker",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80134"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9328 S. Jordan Rd", "Parker, CO 80134"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "parker-jordan-and-e-470-9328-s-jordan-rd-parker-co-80134-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "17748-173944",
+        "id": "1005284",
+        "name": "Arapahoe Rd & S Boston St",
+        "phoneNumber": "3037901299",
+        "coordinates": {
+            "latitude": 39.595607,
+            "longitude": -104.88034
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9301 East Arapahoe Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801123606"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9301 East Arapahoe Rd", "Greenwood Village, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "SQ",
+            "name": "tbd"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "arapahoe-rd-s-boston-st-9301-east-arapahoe-rd-greenwood-village-co-8011236"
+    }, {
+        "recommendation": {},
+        "storeNumber": "19889-91824",
+        "id": "1007470",
+        "name": "King Soopers-Aurora #107",
+        "phoneNumber": "303-615-2855",
+        "coordinates": {
+            "latitude": 39.587497,
+            "longitude": -104.687403
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "25701 E Smoky Hill Rd",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80016"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["25701 E Smoky Hill Rd", "Aurora, CO 80016"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-aurora-107-25701-e-smoky-hill-rd-aurora-co-80016-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "79569-107097",
+        "id": "9896",
+        "name": "Safeway #137 - Aurora",
+        "phoneNumber": "303-751-6603",
+        "coordinates": {
+            "latitude": 39.695997,
+            "longitude": -104.84565
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "12200 E. Mississippi Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800123454"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["12200 E. Mississippi Ave", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 6:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-137-aurora-12200-e-mississippi-ave-aurora-co-800123454-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "76165-93492",
+        "id": "12759",
+        "name": "Target Arapahoe T-147",
+        "phoneNumber": "303-790-2583",
+        "coordinates": {
+            "latitude": 39.593246,
+            "longitude": -104.881849
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6767 S Clinton St",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Englewood",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801123617"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6767 S Clinton St", "Englewood, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "target-arapahoe-t-147-6767-s-clinton-st-englewood-co-801123617-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "6776-78625",
+        "id": "9236",
+        "name": "Orchard & Willow",
+        "phoneNumber": "720-493-1996",
+        "coordinates": {
+            "latitude": 39.610055,
+            "longitude": -104.889406
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8745 E. Orchard Road",
+            "streetAddressLine2": "510",
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801115025"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["8745 E. Orchard Road", "510", "Greenwood Village, CO 80111"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 5:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 5:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 5:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 5:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:30 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:30 AM to 3:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 5:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "orchard-willow-8745-e-orchard-road-greenwood-village-co-801115025"
+    }, {
+        "recommendation": {},
+        "storeNumber": "74351-83241",
+        "id": "13097",
+        "name": "Safeway-Aurora #2612",
+        "phoneNumber": "303-481-2279",
+        "coordinates": {
+            "latitude": 39.686147,
+            "longitude": -104.868048
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1677 S Havana",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800125007"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["1677 S Havana", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-aurora-2612-1677-s-havana-aurora-co-800125007-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "60662-237757",
+        "id": "1026232",
+        "name": "Target Aurora West T-1413",
+        "phoneNumber": null,
+        "coordinates": {
+            "latitude": 39.690988,
+            "longitude": -104.863476
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1400 S Havana St",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800124014"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["1400 S Havana St", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }],
+        "slug": "target-aurora-west-t-1413-1400-s-havana-st-aurora-co-800124014-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "5722-8007",
+        "id": "16780",
+        "name": "Belleview and Ulster - DTC",
+        "phoneNumber": "303-221-6236",
+        "coordinates": {
+            "latitude": 39.623192,
+            "longitude": -104.897204
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8000 E Belleview",
+            "streetAddressLine2": "Suite B10",
+            "streetAddressLine3": "Denver Tech Center",
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801112660"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["8000 E Belleview", "Suite B10", "Greenwood Village, CO 80111"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "belleview-and-ulster-dtc-8000-e-belleview-denver-tech-center-greenwood-vill"
+    }, {
+        "recommendation": {},
+        "storeNumber": "6821-79460",
+        "id": "12839",
+        "name": "I-225 & Alameda-Aurora",
+        "phoneNumber": "303-340-8370",
+        "coordinates": {
+            "latitude": 39.713125,
+            "longitude": -104.821703
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "14261 East Cedar Avenue",
+            "streetAddressLine2": "D",
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800121430"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["14261 East Cedar Avenue", "D", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "CL",
+            "name": "Starbucks Reserve-Clover Brewed"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "i-225-alameda-aurora-14261-east-cedar-avenue-aurora-co-800121430-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "5294-175247",
+        "id": "1005578",
+        "name": "Mississippi & Havana, Aurora",
+        "phoneNumber": "3036710153",
+        "coordinates": {
+            "latitude": 39.691713,
+            "longitude": -104.865309
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "1402 S. Havana St.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": "Gardens in Havana",
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800124014"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": true,
+        "openStatusText": "Closes in 14 mins",
+        "addressLines": ["1402 S. Havana St.", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "mississippi-havana-aurora-1402-s-havana-st-gardens-in-havana-aurora-co-80012"
+    }, {
+        "recommendation": {},
+        "storeNumber": "13339-105636",
+        "id": "7763",
+        "name": "Parker & Lincoln - Parker",
+        "phoneNumber": "303-840-0306",
+        "coordinates": {
+            "latitude": 39.538608,
+            "longitude": -104.768414
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9700 S. Parker Road",
+            "streetAddressLine2": "Suite100",
+            "streetAddressLine3": "Parker Gateway Retail Center",
+            "city": "Parker",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801389004"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9700 S. Parker Road", "Suite100", "Parker, CO 80138"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 8:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "parker-lincoln-parker-9700-s-parker-road-parker-gateway-retail-center-pa"
+    }, {
+        "recommendation": {},
+        "storeNumber": "249-195",
+        "id": "16199",
+        "name": "Arapahoe Market Place",
+        "phoneNumber": "(303) 689-0728",
+        "coordinates": {
+            "latitude": 39.596219,
+            "longitude": -104.891345
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8547 E Arapahoe Rd",
+            "streetAddressLine2": "Ste 1",
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801121436"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["8547 E Arapahoe Rd", "Ste 1", "Greenwood Village, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "arapahoe-market-place-8547-e-arapahoe-rd-greenwood-village-co-801121436-"
+    }, {
+        "recommendation": {},
+        "storeNumber": "72689-76604",
+        "id": "16099",
+        "name": "Target Aurora ST-1471",
+        "phoneNumber": "303-214-0114",
+        "coordinates": {
+            "latitude": 39.715146,
+            "longitude": -104.821305
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "14200 E Ellsworth Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800121402"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["14200 E Ellsworth Ave", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "7:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "target-aurora-st-1471-14200-e-ellsworth-ave-aurora-co-800121402-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "73955-93848",
+        "id": "91365",
+        "name": "King Soopers-Parker #88",
+        "phoneNumber": "720-851-7750",
+        "coordinates": {
+            "latitude": 39.535688,
+            "longitude": -104.79059
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "17031 Lincoln Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Parker",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801343161"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["17031 Lincoln Ave", "Parker, CO 80134"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-parker-88-17031-lincoln-ave-parker-co-801343161-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "18946-177247",
+        "id": "1005435",
+        "name": "Target Denver T-2820",
+        "phoneNumber": "303-481-2821",
+        "coordinates": {
+            "latitude": 39.654477,
+            "longitude": -104.900136
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7777 E. Hampden Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denver",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "80231"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["7777 E. Hampden Ave", "Denver, CO 80231"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "8:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "target-denver-t-2820-7777-e-hampden-ave-denver-co-80231-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "5299-894",
+        "id": "14849",
+        "name": "Park Meadows",
+        "phoneNumber": "303-792-5796",
+        "coordinates": {
+            "latitude": 39.562645,
+            "longitude": -104.876025
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "8405 Park Meadows Center Drive",
+            "streetAddressLine2": "2G-1",
+            "streetAddressLine3": null,
+            "city": "Littleton",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801245005"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["8405 Park Meadows Center Drive", "2G-1", "Littleton, CO 80124"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "10:00 AM to 6:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "9:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "park-meadows-8405-park-meadows-center-drive-littleton-co-801245"
+    }, {
+        "recommendation": {},
+        "storeNumber": "74140-17674",
+        "id": "16242",
+        "name": "Safeway-Englewood #0008",
+        "phoneNumber": "303-771-8707",
+        "coordinates": {
+            "latitude": 39.596035,
+            "longitude": -104.903476
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "7375 E Arapahoe Road",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Englewood",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801121305"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["7375 E Arapahoe Road", "Englewood, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-englewood-0008-7375-e-arapahoe-road-englewood-co-801121305-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "11246-103076",
+        "id": "17400",
+        "name": "Alameda & Ironton",
+        "phoneNumber": "303-340-5691",
+        "coordinates": {
+            "latitude": 39.711674,
+            "longitude": -104.862719
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "10761 E Alameda",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Aurora",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "800121035"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": true,
+        "openStatusText": "Closes in 14 mins",
+        "addressLines": ["10761 E Alameda", "Aurora, CO 80012"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "alameda-ironton-10761-e-alameda-aurora-co-800121035-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "9193-151286",
+        "id": "19045",
+        "name": "King Soopers-Denver, CO #26",
+        "phoneNumber": "303-758-1210",
+        "coordinates": {
+            "latitude": 39.651856,
+            "longitude": -104.914206
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6470 E Hampden Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denver",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "802227605"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6470 E Hampden Ave", "Denver, CO 80222"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-denver-co-26-6470-e-hampden-ave-denver-co-802227605-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "11474-105326",
+        "id": "18297",
+        "name": "Hampden & Locust, Denver",
+        "phoneNumber": "303 691-3437",
+        "coordinates": {
+            "latitude": 39.653634,
+            "longitude": -104.915687
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6395 E. Hampden Ave.",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denver",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "802227602"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": true,
+        "openStatusText": "Closes in 44 mins",
+        "addressLines": ["6395 E. Hampden Ave.", "Denver, CO 80222"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 10:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "4:30 AM to 10:30 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "hampden-locust-denver-6395-e-hampden-ave-denver-co-802227602-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "10262-99008",
+        "id": "14560",
+        "name": "Yosemite & Maximus - Lone Tree",
+        "phoneNumber": "303-799-8061",
+        "coordinates": {
+            "latitude": 39.554603,
+            "longitude": -104.883978
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9222 Park Meadows Drive",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Lone Tree",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801246711"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9222 Park Meadows Drive", "Lone Tree, CO 80124"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:30 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 9:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "VS",
+            "name": "Verismo"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "GO",
+            "name": "Starbucks Wi-Fi"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }],
+        "slug": "yosemite-maximus-lone-tree-9222-park-meadows-drive-lone-tree-co-801246711-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "17563-172724",
+        "id": "91223",
+        "name": "Lincoln & Oswego, Centennial",
+        "phoneNumber": "3036629499",
+        "coordinates": {
+            "latitude": 39.536711,
+            "longitude": -104.856139
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "9854 Zenith Meridian Drive",
+            "streetAddressLine2": "Suite C",
+            "streetAddressLine3": null,
+            "city": "Englewood",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801126333"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "CO",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["9854 Zenith Meridian Drive", "Suite C", "Englewood, CO 80112"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "5:30 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "5:30 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "5:00 AM to 7:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "DT",
+            "name": "Drive-Thru"
+        }, {
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "XO",
+            "name": "Mobile Order and Pay"
+        }, {
+            "code": "MX",
+            "name": "Music Experience"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "LU",
+            "name": "Lunch"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }, {
+            "code": "UC",
+            "name": "tbd - UCP"
+        }, {
+            "code": "UE",
+            "name": "tbd - Uber Eats"
+        }],
+        "slug": "lincoln-oswego-centennial-9854-zenith-meridian-drive-englewood-co-801126333-"
+    }, {
+        "recommendation": {},
+        "storeNumber": "74108-17656",
+        "id": "15773",
+        "name": "Safeway-Denver #1267",
+        "phoneNumber": "303-691-8870",
+        "coordinates": {
+            "latitude": 39.666502,
+            "longitude": -104.914438
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6460 East Yale Ave",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Denver",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "802227156"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6460 East Yale Ave", "Denver, CO 80222"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 6:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "CD",
+            "name": "Mobile Payment"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "NB",
+            "name": "Nitro Cold Brew"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "safeway-denver-1267-6460-east-yale-ave-denver-co-802227156-us"
+    }, {
+        "recommendation": {},
+        "storeNumber": "75005-82269",
+        "id": "9256",
+        "name": "King Soopers-Greenwood Village #96",
+        "phoneNumber": "720-488-3401",
+        "coordinates": {
+            "latitude": 39.607829,
+            "longitude": -104.920775
+        },
+        "regulations": [],
+        "address": {
+            "streetAddressLine1": "6000 S Holly",
+            "streetAddressLine2": null,
+            "streetAddressLine3": null,
+            "city": "Greenwood Village",
+            "countrySubdivisionCode": "CO",
+            "countryCode": "US",
+            "postalCode": "801114251"
+        },
+        "timeZoneInfo": {
+            "currentTimeOffset": -360,
+            "windowsTimeZoneId": "Mountain Standard Time",
+            "olsonTimeZoneId": "GMT-07:00 America/Denver"
+        },
+        "brandName": "Starbucks",
+        "ownershipTypeCode": "LS",
+        "open": false,
+        "openStatusText": "Closed",
+        "addressLines": ["6000 S Holly", "Greenwood Village, CO 80111"],
+        "mop": {
+            "ready": false,
+            "wait": null
+        },
+        "schedule": [{
+            "dayName": "Today",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Tomorrow",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Thursday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Friday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Saturday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Sunday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }, {
+            "dayName": "Monday",
+            "hours": "6:00 AM to 8:00 PM",
+            "open": true,
+            "holiday": ""
+        }],
+        "features": [{
+            "code": "WA",
+            "name": "Oven-warmed Food"
+        }, {
+            "code": "WF",
+            "name": "Wireless Hotspot"
+        }, {
+            "code": "DR",
+            "name": "Digital Rewards"
+        }, {
+            "code": "LB",
+            "name": "LaBoulange"
+        }, {
+            "code": "BE",
+            "name": "Blonde Espresso"
+        }, {
+            "code": "16",
+            "name": "In store"
+        }, {
+            "code": "BA",
+            "name": "Bakery"
+        }, {
+            "code": "RW",
+            "name": "My Starbucks Rewards"
+        }, {
+            "code": "PS",
+            "name": "Playbook Store System"
+        }],
+        "slug": "king-soopers-greenwood-village-96-6000-s-holly-greenwood-village-co-801114251-us"
+    }]
