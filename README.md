@@ -2,6 +2,8 @@
 
 This is a proof of concept API in which Starbucks store locations are stored in a MongoDB to provide location and information of the store in the following zip codes: 90036, 90048, 80015, and 85255.
 
+https://gutimatt.github.io/store-locator/
+
 ## What I Learned:
 * Creating API server using express.
 * Using Mongoose Schema to connect to MongoDB
