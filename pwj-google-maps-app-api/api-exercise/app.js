@@ -5,16 +5,17 @@ const mongoose = require('mongoose');
 const Store = require('./api/models/store');
 const GoogleMapsService = require('./api/services/googleMapsService');
 const googleMapsService = new GoogleMapsService();
-require('dotenv').config();
-
-
+require('dotenv').config({ path: '../../.env' });
 
 app.use(function (req, res, next) {
   res.header('Access-Control-Allow-Origin', '*')
   next()
 })
 
-mongoose.connect('mongodb+srv://gutimatt:GG4RWaVlHlwKZ7Op@cluster0.shtjq.mongodb.net/GoogleMap?retryWrites=true&w=majority', {
+/*
+* Connect to mongodb database on port 3000 
+*/
+mongoose.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.mhtkykq.mongodb.net/?retryWrites=true&w=majority`, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true
@@ -25,8 +26,9 @@ app.use(express.json({
   limit: '50mb'
 }));
 
-
-
+/* 
+* post a new store.  See documentation for API request
+*/ 
 app.post('/api/stores', (req, res) => {
   let dbStores = []
   let stores = req.body
@@ -57,15 +59,22 @@ app.post('/api/stores', (req, res) => {
   })
 })
 
+/*
+* Delete stores 
+*/ 
 app.delete('/api/stores', (req, res) => {
   Store.deleteMany({}, (err) => {
     res.status(200).send(err);
   })
 })
 
+/*
+* get store from zip_code query
+*/
+
 app.get('/api/stores', (req, res) => {
   const zipCode = req.query.zip_code;
-  
+
   googleMapsService.getCoordinates(zipCode)
   .then((coordinates)=>{
     Store.find({
