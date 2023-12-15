@@ -9,7 +9,8 @@ This is a proof of concept API in which Starbucks store locations are stored in 
 
 ## Future Improvements 
 * This could be converted to a MVC implementation.  Right now the API is seperate from client however controller and view are coupled.
-* Unit testing API 
+* Unit testing API
+* There is no error handling on the front end for unresolved zipcodes nor connecting to server.
 
 ## API Setup
 
